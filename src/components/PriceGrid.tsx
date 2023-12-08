@@ -1,12 +1,14 @@
 export default function PriceGrid() {
   return (
-    <div className="bg-white font-karla w-80 rounded-[0.3125rem] lg:w-[40rem] shadow-[0_15px_30px_0_rgba(0,81,171,0.15)]">
+    <div className="bg-white font-karla w-80 rounded-[0.3125rem] lg:w-[41rem] shadow-[0_15px_30px_0_rgba(0,81,171,0.15)]">
       <div className="p-6 lg:p-10">
-        <h1 className="text-teal font-bold text-xl mb-6">Join our community</h1>
-        <h2 className="text-lime font-bold text-[0.9375rem] leading-5 tracking-[0.01169rem] mb-4">
+        <h1 className="text-teal font-bold text-xl lg:text-2xl mb-6">
+          Join our community
+        </h1>
+        <h2 className="text-lime font-bold text-[0.9375rem] lg:text-lg leading-5 tracking-[0.01169rem] mb-4">
           30-day, hassle-free money back guarantee
         </h2>
-        <p className="text-gray text-sm leading-[1.625rem] tracking-[0.01094rem] mb-2">
+        <p className="text-gray text-sm lg:text-base leading-[1.625rem] tracking-[0.01094rem] mb-2">
           Gain access to our full library of tutorials along with expert code
           reviews. Perfect for any developers who are serious about honing their
           skills.
