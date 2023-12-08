@@ -1,6 +1,6 @@
 export default function PriceGrid() {
   return (
-    <div className="bg-white font-karla w-80 rounded-[0.3125rem] lg:w-[40rem]">
+    <div className="bg-white font-karla w-80 rounded-[0.3125rem] lg:w-[40rem] shadow-[0_15px_30px_0_rgba(0,81,171,0.15)]">
       <div className="p-6 lg:p-10">
         <h1 className="text-teal font-bold text-xl mb-6">Join our community</h1>
         <h2 className="text-lime font-bold text-[0.9375rem] leading-5 tracking-[0.01169rem] mb-4">
